@@ -1,0 +1,23 @@
+{
+    "Telco_Churn": {
+        "train_rows": 5634,
+        "test_rows": 1409,
+        "features": 19,
+        "target_balance_pct": 26.54,
+        "missing_values": 0
+    },
+    "Heart_Disease": {
+        "train_rows": 242,
+        "test_rows": 61,
+        "features": 13,
+        "target_balance_pct": 45.87,
+        "missing_values": 6
+    },
+    "Pima_Diabetes": {
+        "train_rows": 614,
+        "test_rows": 154,
+        "features": 8,
+        "target_balance_pct": 34.9,
+        "missing_values": 652
+    }
+}
