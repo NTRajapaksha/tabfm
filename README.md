@@ -3,7 +3,7 @@
   <h3><i>Benchmarking Google's Zero-Shot Tabular Foundation Model</i></h3>
   <br>
   
-  [![Read the Article](https://img.shields.io/badge/📖_Read_The_Full_Article-Medium-black?style=for-the-badge)](INSERT_YOUR_ARTICLE_LINK_HERE)
+  [![Read the Article](https://img.shields.io/badge/📖_Read_The_Full_Article-Medium-black?style=for-the-badge)](https://medium.com/@ntratofficial/is-the-reign-of-xgboost-over-i-benchmarked-googles-new-tabfm-and-the-results-are-wild-d1ecd0a6d9f3)
 </div>
 
 ---
