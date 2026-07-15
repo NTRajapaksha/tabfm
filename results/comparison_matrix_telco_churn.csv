@@ -1,0 +1,6 @@
+Method,F1 (test),AUC,Time to first prediction,Setup effort,Memory,Cost,Explainability
+XGBoost (tuned),0.5686,0.7961,0.02 hours (tuning),High - manual feature eng,Low,Free,SHAP - excellent
+AutoGluon 60s,0.7295,0.8448,65s,Low - pass raw data,249.39MB (Disk),Free,None for ensemble
+AutoGluon 600s,0.7382,0.8460,604s,Low - pass raw data,359.06MB (Disk),Free,None for ensemble
+TabFM (Plain),0.7273,0.8490,4235.00s,Very low,16GB (GPU VRAM),Free (non-commercial),None
+TabFM (Ensemble),0.7285,0.8491,5516.53s,Very low,16GB (GPU VRAM),Free (non-commercial),None
